@@ -63,7 +63,7 @@ app/src/main/java/com/asadfareed/vaulta
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/vaulta-wallet.git
+git clone https://github.com/asadfareed777/vaulta-wallet.git
 cd vaulta-wallet
 ./gradlew assembleDebug      # build
 ./gradlew testDebugUnitTest  # run unit tests
@@ -91,4 +91,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-<p align="center">Built by <b>Asad Fareed</b>, Senior Android & Flutter Engineer</p>
+<p align="center">Built by <a href="https://github.com/asadfareed777"><b>Asad Fareed</b></a>, Senior Android & Flutter Engineer</p>
