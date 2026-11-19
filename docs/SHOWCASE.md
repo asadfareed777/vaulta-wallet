@@ -22,7 +22,7 @@
 >
 > Money is stored as minor units (Long) throughout, so there are no floating-point surprises in balances.
 >
-> Code 👉 https://github.com/<your-username>/vaulta-wallet
+> Code 👉 https://github.com/asadfareed777/vaulta-wallet
 >
 > #AndroidDev #JetpackCompose #Kotlin #Fintech #CleanArchitecture #MobileDevelopment
 

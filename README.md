@@ -24,6 +24,10 @@
 
 Vaulta is a fintech wallet app built to show how a production Android codebase is organised. It covers a real-time balance dashboard, peer-to-peer transfers with validation, spending analytics drawn with custom Compose charts, and card controls. The UI is built entirely in Jetpack Compose on a Clean Architecture core with unit tests.
 
+## Demo
+
+<p align="center"><img src="docs/demo.gif" alt="Vaulta demo" width="320"/></p>
+
 ## Screens
 
 | Home | Insights | Send money | Cards |
