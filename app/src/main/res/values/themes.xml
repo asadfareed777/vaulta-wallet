@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vaulta_ink">#FF0A0E1A</color>
+    <color name="vaulta_mint">#FF3DDC97</color>
+
+    <style name="Theme.Vaulta" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/vaulta_ink</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Vaulta.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/vaulta_ink</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Vaulta</item>
+    </style>
+</resources>
