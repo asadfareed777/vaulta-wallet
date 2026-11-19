@@ -12,6 +12,16 @@
   <img src="https://img.shields.io/badge/minSdk-26-0A0E1A"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/asadfareed777/vaulta-wallet/releases/latest">
+    <img src="https://img.shields.io/badge/Download-APK-3DDC97?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/asadfareed777/vaulta-wallet/actions/workflows/android.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/asadfareed777/vaulta-wallet/android.yml?branch=main&style=for-the-badge&label=CI" alt="CI status"/>
+  </a>
+</p>
+
 Vaulta is a fintech wallet app built to show how a production Android codebase is organised. It covers a real-time balance dashboard, peer-to-peer transfers with validation, spending analytics drawn with custom Compose charts, and card controls. The UI is built entirely in Jetpack Compose on a Clean Architecture core with unit tests.
 
 ## Screens

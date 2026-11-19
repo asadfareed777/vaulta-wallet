@@ -126,7 +126,7 @@ fun PaymentCardView(card: PaymentCard) {
                 Icons.Rounded.Lock,
                 contentDescription = "Frozen",
                 tint = Color.White,
-                modifier = Modifier.align(Alignment.Center).size(40.dp),
+                modifier = Modifier.align(Alignment.TopCenter).size(32.dp),
             )
         }
     }
